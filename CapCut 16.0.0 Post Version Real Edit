@@ -8,7 +8,7 @@
     "description": "এপসটি আনইন্সটল করার দরকার নেই, অনুগ্রহ করে Update এ ক্লিক করুন আর Admin কে মেসেজ দিন আর এপসটির নতুন ভার্সনটি কালেক্ট করুন তারপর আপডেট দিন.( কেউ কল দিবেন না)",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2030-09-01",
+    "expiryDate": "2020-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
